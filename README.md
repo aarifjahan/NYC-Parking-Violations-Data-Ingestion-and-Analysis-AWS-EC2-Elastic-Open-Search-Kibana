@@ -1,7 +1,3 @@
-# README - CIS 9760 Fall 2021 Project 1
-## _Aarif Munwar Jahan_
-
-
 ##### Keywords
 - Docker Containers
 - AWS OpenSearch
