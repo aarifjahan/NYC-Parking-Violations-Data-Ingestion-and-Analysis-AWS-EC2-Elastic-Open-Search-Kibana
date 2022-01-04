@@ -1,3 +1,7 @@
+# Analyzing Millions of NYC Parking Violations Data
+
+Ingest and Analyze Over 10 million NYC Parking Violations Data using AWS EC2, Elastic Search (OpenSearch) and Kibana
+
 ##### Keywords
 - Docker Containers
 - AWS OpenSearch
