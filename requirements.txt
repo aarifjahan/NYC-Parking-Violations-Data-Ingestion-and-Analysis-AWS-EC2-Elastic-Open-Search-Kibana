@@ -1,0 +1,4 @@
+requests==2.26.0
+sodapy==2.1.0
+argparse
+datetime
