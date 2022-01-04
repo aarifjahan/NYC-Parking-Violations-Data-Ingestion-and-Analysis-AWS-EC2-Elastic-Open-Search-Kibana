@@ -106,6 +106,8 @@ The hardware configuration to acheive this performance are as follows:
  
  Please refer to **kibanadashboard.png** file inside the project zip folder.
  
+ ![Kibana-Dashboard](assets/kibanadashboard.png)
+ 
  ### Analysis 1: Parking violations distribution by NYC borough (top left)
  
  We can see that the three boroughs of Bronx, Brooklyn and Queens take majority share of the parking violations. This can be explained by just the number of residents living in these boroughs compared to Manhattan and Staten Island.
