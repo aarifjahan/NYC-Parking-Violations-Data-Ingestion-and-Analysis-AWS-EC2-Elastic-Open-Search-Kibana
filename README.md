@@ -104,8 +104,6 @@ The hardware configuration to acheive this performance are as follows:
 
  ## Data Analysis
  
- Please refer to **kibanadashboard.png** file inside the project zip folder.
- 
  ![Kibana-Dashboard](assets/kibanadashboard.png)
  
  ### Analysis 1: Parking violations distribution by NYC borough (top left)
